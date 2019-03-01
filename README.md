@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Scheduler-Simulator
 =======
 How to compile and run Assignment 1 from command line:
@@ -14,4 +13,3 @@ How to compile and run Assignment 1 from command line:
    It will as you if you want to save the scheduler to a file. Type 'y' or 'n' based on your choice. 
 6a) If 'y' was typed it will ask you for the name of the file you want to save the data as.
 7) After going through each scheduler, the total and average turnaround time will print for each scheduler, then the program is terminated.
->>>>>>> added project
